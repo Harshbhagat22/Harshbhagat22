@@ -1,46 +1,68 @@
-# 👋 Hi, I'm Harsh Sukhachari Bhagat!
+# 👋 Hi, I'm Harsh Sukhachari Bhagat!  
+
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/83720596/194753171-146f8c57-3b5f-4e7e-8d43-1b3fd1c60eb3.gif" alt="Welcome GIF" width="400"/>
+</div>
+
+---
+
+### 🌟 About Me  
 
 🎓 **IT Student at St. Vincent Pallotti College of Engineering & Technology**  
-🌍 From Nagpur Rural, currently exploring the world of Web Development and Cloud Computing.  
-💡 Passionate about building innovative applications and enhancing user experiences through code.  
+🌍 From Nagpur Rural, passionate about **MERN stack development**, **real-time applications**, and **cloud computing**.  
+💻 Constantly learning and building to bring ideas to life with technology.  
 
 ---
 
-## 🚀 About Me
+## 💻 My Tech Stack  
 
-- 🌟 Final-year engineering student with a diploma in Mechanical Engineering (2023).  
-- 💻 Focused on **MERN stack development** and **real-time application projects** like Chat Applications and Blogging Platforms.  
-- 🌐 Completed a **Web Development Internship at Codsoft**, where I built:  
-  - A responsive **Landing Page** for a watch store.  
-  - My personal **Portfolio Website** to showcase my skills and projects.  
-  - A fully functional **Calculator** for enhanced interactivity.  
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,mongodb,html,css,github,git" alt="Skills" style="height: 45px;">
+</div>
 
 ---
 
-## 🔧 Skills
+## 📈 GitHub Stats  
 
-- **Languages:** Java, JavaScript, Python, HTML, CSS  
-- **Frameworks & Tools:** React.js, Node.js, Express.js, MongoDB  
-- **Areas of Interest:** Full-stack Web Development, Cloud Computing, and Competitive Programming  
-
----
-
-## 📚 My Projects
-
-1. **[Portfolio Website](https://9aolm4pathbtspxtmti9ag.on.drv.tw/www.harshportfolio.com/)**  
-   Showcasing my journey and skills as a developer.  
-2. **Calculator Application**  
-   Focused on JavaScript functionality and user-friendly design.  
-3. **Landing Page**  
-   Designed for a watch store with a clean, interactive layout.
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Harshbhagat22&show_icons=true&theme=radical" alt="GitHub Stats" height="150">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Harshbhagat22&theme=radical" alt="Streak Stats" height="150">
+</div>  
 
 ---
 
-## 🌐 Let's Connect
+## 🔥 Projects  
 
-- **LinkedIn:** [Harsh Sukhachari Bhagat](https://www.linkedin.com/in/harsh-sukhachari-bhagat-8a0a5a283/)  
-- **GitHub:** [Harshbhagat22](https://github.com/Harshbhagat22)  
+1. 🌐 **[Portfolio Website](https://github.com/Harshbhagat22/CODSOFT)**  
+   - Built to showcase my skills and projects with an elegant design.
 
-Feel free to explore my repositories, connect, or share feedback. Always looking forward to learning and collaborating! 🚀  
+2. 🧮 **Calculator Application**  
+   - Functional and visually intuitive, showcasing JavaScript prowess.  
+
+3. 🕒 **Landing Page**  
+   - Designed for a watch store using responsive design techniques.  
+
+---
+
+## 🌐 Let's Connect  
+
+<div align="center">
+    <a href="https://linkedin.com/in/harsh-sukhachari-bhagat-8a0a5a283" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a href="https://github.com/Harshbhagat22" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+    </a>
+</div>  
+
+---
+
+### ✨ Fun Fact  
+
+> "When I'm not coding, you’ll find me exploring tech trends or dreaming up the next big project."  
+
+<div align="center">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="400"/>
+</div>
 
 ---
