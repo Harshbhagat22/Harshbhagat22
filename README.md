@@ -53,7 +53,7 @@ Hi, I'm **Harsh Sukhachari Bhagat**, a **third-year IT student** passionate abou
     <a href="https://github.com/Harshbhagat22" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </a>
-    <a href="mailto:harshbhagat.dev@gmail.com">
+    <a href="mailto:harshbhagat9970@gmail.com">
         <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
 </p>
