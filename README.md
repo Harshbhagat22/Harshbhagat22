@@ -1,61 +1,52 @@
-
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Harsh+Sukhachari+Bhagat!;Welcome+to+my+GitHub+profile!;Student+%7C+Developer+%7C+Tech+Enthusiast;" alt="Typing Animation">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C0FF&center=true&vCenter=true&width=700&lines=Welcome+to+My+Professional+Portfolio;I+Am+Harsh+Sukhachari+Bhagat;IT+Student+|+Developer+|+Tech+Innovator;" alt="Typing Animation">
 </div>
 
 ---
 
-### 🌟 About Me  
+## 🌐 About Me
 
-<p align="center">
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
-</p>
+Hello! I am **Harsh Sukhachari Bhagat**, a third-year **IT student** at **St. Vincent Pallotti College of Engineering & Technology** with a passion for **software development**, **cloud technologies**, and building cutting-edge **web applications**.  
 
-- 🎓 **IT Student @ St. Vincent Pallotti College of Engineering & Technology**  
-- 💻 Passionate about building projects with the **MERN Stack** and **real-time applications**  
-- ☁️ Exploring the world of **Cloud Computing**  
-- 🌱 Constant learner and tech enthusiast!  
+- 🎯 **Specialization**: MERN Stack Development, Cloud Solutions, Real-Time Applications  
+- 🧩 **Interests**: Solving complex problems, creating impactful software, and advancing in full-stack development.  
+- 🌟 **Mission**: To contribute to innovative projects and continuously upskill to meet industry standards.  
+- 📍 **Location**: Nagpur Rural  
 
 ---
 
+## ⚡ Technical Skills
+
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/65716870/192607062-a2289f98-599f-49b5-b88c-7c4ad3a0f2b3.gif" width="600" alt="Developer Banner">
+    <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,mongodb,html,css,git,github,postman,vscode,linux,cloud" alt="Skills" height="50">
 </div>
 
 ---
 
-### 🚀 My Tech Stack  
+## 📊 GitHub Overview
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,html,css,github,vscode,postman" alt="Tech Stack" height="50">
+    <img src="https://github-readme-stats.vercel.app/api?username=Harshbhagat22&show_icons=true&theme=calm&count_private=true&hide_border=true" height="180">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Harshbhagat22&theme=calm&hide_border=true" height="180">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshbhagat22&layout=compact&theme=calm&hide_border=true" height="180">
 </div>
 
 ---
 
-### 📈 GitHub Stats  
+## 💼 Featured Projects
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Harshbhagat22&show_icons=true&theme=algolia" height="180">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Harshbhagat22&theme=algolia" height="180">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshbhagat22&layout=compact&theme=algolia" height="180">
-</div>
+- **[Landing Page for Watch Store](https://github.com/Harshbhagat22/WatchStoreLandingPage)**  
+  Built a fully responsive, dynamic landing page using HTML, CSS, and JavaScript.
 
----
+- **[Real-Time Chat Application (Upcoming)](https://github.com/Harshbhagat22/RealTimeChatApp)**  
+  An interactive chat platform with Node.js and WebSocket integration.
 
-### ✨ Highlighted Projects  
-
-- 🌟 [**Portfolio Website**](https://github.com/Harshbhagat22/CODSOFT)  
-  A sleek, responsive portfolio showcasing my skills and projects.
-
-- 🧮 **Calculator Application**  
-  A simple, efficient calculator designed with clean user interface principles.
-
-- 🌐 **Landing Page for Watch Store**  
-  Designed using HTML, CSS, and JavaScript to create a responsive and elegant layout.
+- **[Portfolio Website](https://github.com/Harshbhagat22/Portfolio)**  
+  A visually engaging portfolio to showcase my expertise and projects.
 
 ---
 
-### 🌐 Let's Connect  
+## 🌐 Let's Connect  
 
 <p align="center">
     <a href="https://linkedin.com/in/harsh-sukhachari-bhagat-8a0a5a283" target="_blank">
@@ -64,27 +55,37 @@
     <a href="https://github.com/Harshbhagat22" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </a>
+    <a href="mailto:harshbhagat.dev@gmail.com">
+        <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
 </p>
 
 ---
 
+## 🛠️ Tools I Use
+
+- **Code Editors**: Visual Studio Code, IntelliJ IDEA  
+- **Version Control**: Git & GitHub  
+- **Testing & Debugging**: Postman, Chrome DevTools  
+- **Cloud Platforms**: AWS (Learning phase)  
+- **Project Management**: Trello, Notion  
+
+---
+
 <div align="center">
-    <img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/public/socials.svg" alt="Socials Capsule">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Developer at Work">
 </div>
 
 ---
 
-### ✍️ Quote to Live By  
+## ✍️ Quote I Live By  
 
-> "The future belongs to those who believe in the beauty of their dreams."
-
-<div align="center">
-    <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="400" alt="Coding Animation">
-</div>
+> “Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.”
 
 ---
 
-This README layout combines:  
-- **Typing animations** using [readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg).  
-- **Dynamic GitHub stats** from [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats).  
-- **SVG badges and icons** for skills and links.  
+### 📂 How to Use This Profile  
+
+1. Visit my repositories to explore my projects.  
+2. Feel free to reach out for **collaborations**, **mentorship**, or simply tech discussions.  
+3. Follow me on [LinkedIn](https://linkedin.com/in/harsh-sukhachari-bhagat-8a0a5a283) and stay connected.  
