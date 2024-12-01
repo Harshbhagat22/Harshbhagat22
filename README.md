@@ -35,6 +35,9 @@ Hi, I'm **Harsh Sukhachari Bhagat**, a **third-year IT student** driven by a pas
 - [**Watch Store Landing Page**](https://github.com/Harshbhagat22/WatchStoreLandingPage)  
 - [**Real-Time Chat App (Upcoming)**](https://github.com/Harshbhagat22/RealTimeChatApp)  
 - [**Portfolio Website**](https://github.com/Harshbhagat22/Portfolio)  
+- [**Password Generator**](https://github.com/Harshbhagat22/PasswordGenerator)  
+- [**Tic-Tac-Toe Game**](https://github.com/Harshbhagat22/TicTacToeGame)  
+- [**News Website Using News API**](https://github.com/Harshbhagat22/News-Web)
 
 ---
 
