@@ -8,7 +8,7 @@
 
 Hi, I'm **Harsh Sukhachari Bhagat**, a **third-year IT student** driven by a passion for **software development** and **cloud technologies**. Skilled in **MERN Stack**, **real-time apps**, and **innovative web solutions**.  
 
-- 🎯 Tech Skills: MERN Stack, Cloud Solutions  
+- 🎯 Tech Skills: MERN Stack, DSA 
 - 🧩 Mission: Craft impactful software and keep evolving.
 
 ---
