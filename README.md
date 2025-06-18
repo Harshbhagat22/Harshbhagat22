@@ -6,7 +6,7 @@
 
 ## 👋 About Me
 
-Hi, I'm **Harsh Sukhachari Bhagat**, a **third-year IT student** and aspiring **full-stack developer**, focused on building dynamic, scalable, and impactful digital products.
+Hi, I'm **Harsh Sukhachari Bhagat**, a **Final-year IT student** and aspiring **full-stack developer**, focused on building dynamic, scalable, and impactful digital products.
 
 - 🔧 **Core Skills**: Java, JavaScript, React.js, Node.js, MongoDB  
 - 🌐 **Web Dev Tools**: REST APIs, Express.js, Git, GitHub, HTML, CSS  
