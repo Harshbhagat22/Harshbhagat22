@@ -1,44 +1,34 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C0FF&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub;I+Am+Harsh+Sukhachari+Bhagat;IT+Student+|+Developer+|+Tech+Innovator;" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C0FF&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub;I+Am+Harsh+Sukhachari+Bhagat;IT+Student+|+Developer+|+Tech+Innovator" alt="Typing Animation">
 </div>
 
 ---
 
 ## 👋 About Me
 
-Hi, I'm **Harsh Sukhachari Bhagat**, a **third-year IT student** passionate about building **real-time web applications**, mastering the **MERN Stack**, and exploring **cloud technologies**.
+Hi, I'm **Harsh Sukhachari Bhagat**, a **third-year IT student** and aspiring **full-stack developer**, focused on building dynamic, scalable, and impactful digital products.
 
-- 🔧 **Tech Skills**: Java, MERN Stack, DSA  
-- 🚀 **Mission**: Craft meaningful digital solutions and continuously evolve  
-- 🌱 Currently learning: Advanced MERN concepts, Cloud Services
+- 🔧 **Core Skills**: Java, JavaScript, React.js, Node.js, MongoDB  
+- 🌐 **Web Dev Tools**: REST APIs, Express.js, Git, GitHub, HTML, CSS  
+- 💡 **Currently Exploring**: Cloud Computing, Docker, Firebase, GraphQL  
+- 🎯 **Goal**: Build real-time solutions that make a difference in the tech world.
 
 ---
 
-## ⚙️ Tech Stack
+## 🚀 Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,mongodb,html,css,git,github" alt="Skills" height="40">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,react,nodejs,express,mongodb,firebase,html,css,bootstrap,tailwind,git,github,vscode,figma,linux,docker" alt="Tech Stack" height="40" />
 </div>
 
 ---
 
-## 📈 GitHub Highlights
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshbhagat22&show_icons=true&theme=calm&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Harshbhagat22&theme=calm&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshbhagat22&show_icons=true&theme=calm&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Harshbhagat22&theme=calm&hide_border=true" height="150" />
 </div>
-
----
-
-## 🧠 Projects
-
-- 🔗 [**Watch Store Landing Page**](https://github.com/Harshbhagat22/WatchStoreLandingPage)  
-- 💬 [**Real-Time Chat App (Upcoming)**](https://github.com/Harshbhagat22/RealTimeChatApp)  
-- 🌐 [**Portfolio Website**](https://github.com/Harshbhagat22/Portfolio)  
-- 🔐 [**Password Generator**](https://github.com/Harshbhagat22/PasswordGenerator)  
-- 🎮 [**Tic-Tac-Toe Game**](https://github.com/Harshbhagat22/TicTacToeGame)  
-- 📰 [**News Website Using News API**](https://github.com/Harshbhagat22/News-Web)
 
 ---
 
